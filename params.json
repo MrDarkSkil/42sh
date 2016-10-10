@@ -1,0 +1,6 @@
+{
+  "name": "42sh",
+  "tagline": "",
+  "body": "# 42sh\r\n\r\n## Credit :\r\n- Philippe Lefevre\r\n  - Linkedin : https://fr.linkedin.com/in/philippe-lefevre\r\n  - Github : https://github.com/PhilippeLefevre\r\n- Lucas Gambini\r\n  - Linkedin : /\r\n  - Github : https://github.com/GmbLucas\r\n- Hubert Léo\r\n  - Linkedin : https://www.linkedin.com/in/leohubert\r\n  - Github : https://github.com/MrDarkSkil\r\n- Boris Saint-bonnet\r\n  - Linkedin : https://www.linkedin.com/in/boris-saint-bonnet-950045114\r\n  - Github : https://github.com/CyNn0\r\n\r\n## Note : 54\r\n#### Moulinette 41 \r\n- Minishell1 (21/28)\r\n- Minishell2 (13/19)\r\n- 42sh (1/3)\r\n- 42sh - options (6/22)\r\n\r\n#### Keynote 13\r\n> Présentation du projet avec support powerpoint. La keynote a été préparée, le temps de parole pourrait être plus réparti. Le code semble propre. env, exit, cd, echo, globbing, historique, alias\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
