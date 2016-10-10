@@ -22,5 +22,4 @@
 - 42sh - options (6/22)
 
 #### Keynote 13
-    Présentation du projet avec support powerpoint. La keynote a été préparée, le temps de parole pourrait être plus réparti.
-    Le code semble propre. env, exit, cd, echo, globbing, historique, alias
+> Présentation du projet avec support powerpoint. La keynote a été préparée, le temps de parole pourrait être plus réparti. Le code semble propre. env, exit, cd, echo, globbing, historique, alias
